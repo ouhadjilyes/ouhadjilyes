@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ouhadjilyes
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning web and app development
-- 💞️ I’m looking to collaborate on web development projects
+- 💞️ I’m looking to collaborate on web development and python projects
 - 📫 How to reach me : this is my email adress ouhadjilyes@protonmail.com
 
 <!---
